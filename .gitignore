@@ -1,3 +1,7 @@
+# Develop
+dist/
+publish/
+
 # Logs
 logs
 *.log
